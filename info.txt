@@ -1,3 +1,5 @@
 " Hello , Git! I am learning git today "
 
 I am learning git CLI commands.
+
+I am making this edit on local machine and commit it to GitHub .
