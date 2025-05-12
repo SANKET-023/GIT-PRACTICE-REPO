@@ -1,5 +1,3 @@
 " Hello , Git! I am learning git today "
 
 I am learning git CLI commands.
-
-I am learning to edit both the files at the same time.
