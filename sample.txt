@@ -1,3 +1,5 @@
 " Hello , Git! "
 
 " I am commiting this edit to a new branch "
+
+" Editing on local repo and committing to a sub-branch on a remote repo"
